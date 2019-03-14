@@ -51,9 +51,8 @@ class App extends React.Component {
           onOk={this.handleOk}
           onCancel={this.handleCancel}
         >
-          <p>Some contents...</p>
-          <p>Some contents...</p>
-          <p>Some contents...</p>
+        账号<input />
+        密码<input />
         </Modal>
       </div>
     );
